@@ -2,6 +2,18 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8283",
   "files" : {
+    "\/_sass\/lib\/bourbon\/addons\/_timing-functions.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/addons\/_timing-functions.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_timing-functions.css",
+      "fileType" : 4,
+      "debugStyle" : 2
+    },
     "\/projects.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -20,18 +32,6 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_triangle.css",
-      "fileType" : 4,
-      "debugStyle" : 2
-    },
-    "\/_sass\/lib\/bourbon\/addons\/_timing-functions.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/addons\/_timing-functions.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_timing-functions.css",
       "fileType" : 4,
       "debugStyle" : 2
     },
@@ -173,15 +173,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/about.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/about.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_sass\/base\/_variables.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -193,6 +184,15 @@
       "outputAbbreviatedPath" : "\/_sass\/css\/_variables.css",
       "fileType" : 4,
       "debugStyle" : 2
+    },
+    "\/about.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/about.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_sass\/lib\/bourbon\/css3\/_border-image.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -230,14 +230,17 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
-    "\/_site\/projects.html" : {
+    "\/_sass\/lib\/bourbon\/css3\/_animation.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/projects.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css3\/_animation.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_animation.css",
+      "fileType" : 4,
+      "debugStyle" : 2
     },
     "\/_sass\/lib\/bourbon\/css3\/_flex-box.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -251,17 +254,14 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
-    "\/_sass\/lib\/bourbon\/css3\/_animation.scss" : {
+    "\/_site\/projects.html" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css3\/_animation.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_animation.css",
-      "fileType" : 4,
-      "debugStyle" : 2
+      "inputAbbreviatedPath" : "\/_site\/projects.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_sass\/lib\/bourbon\/_bourbon.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -275,18 +275,6 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
-    "\/_sass\/lib\/bourbon\/css3\/_inline-block.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css3\/_inline-block.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_inline-block.css",
-      "fileType" : 4,
-      "debugStyle" : 2
-    },
     "\/_sass\/lib\/bourbon\/css3\/_background-size.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -296,6 +284,18 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_background-size.css",
+      "fileType" : 4,
+      "debugStyle" : 2
+    },
+    "\/_sass\/lib\/bourbon\/css3\/_inline-block.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css3\/_inline-block.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_inline-block.css",
       "fileType" : 4,
       "debugStyle" : 2
     },
@@ -323,15 +323,6 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
-    "\/_layouts\/default.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_layouts\/default.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_sass\/lib\/bourbon\/addons\/_prefixer.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -343,6 +334,15 @@
       "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_prefixer.css",
       "fileType" : 4,
       "debugStyle" : 2
+    },
+    "\/_layouts\/default.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_layouts\/default.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_sass\/lib\/bourbon\/css3\/_placeholder.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -365,18 +365,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/_sass\/lib\/bourbon\/css3\/_transform.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css3\/_transform.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_transform.css",
-      "fileType" : 4,
-      "debugStyle" : 2
-    },
     "\/_sass\/lib\/bourbon\/css3\/_radial-gradient.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -397,6 +385,18 @@
       "inputAbbreviatedPath" : "\/_site\/css\/syntax.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
+    },
+    "\/_sass\/lib\/bourbon\/css3\/_transform.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css3\/_transform.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_transform.css",
+      "fileType" : 4,
+      "debugStyle" : 2
     },
     "\/_sass\/lib\/bourbon\/css3\/_keyframes.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -467,6 +467,15 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
+    "\/_site\/jekyll\/update\/2013\/05\/15\/welcome-to-jekyll.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/jekyll\/update\/2013\/05\/15\/welcome-to-jekyll.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_sass\/lib\/bourbon\/functions\/_render-gradients.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -478,15 +487,6 @@
       "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_render-gradients.css",
       "fileType" : 4,
       "debugStyle" : 2
-    },
-    "\/_site\/jekyll\/update\/2013\/05\/15\/welcome-to-jekyll.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/jekyll\/update\/2013\/05\/15\/welcome-to-jekyll.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/_sass\/lib\/bourbon\/functions\/_radial-gradient.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -605,29 +605,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_sass\/lib\/bourbon\/addons\/_retina-image.scss" : {
+    "\/_site\/jekyll\/update\/2013\/05\/15\/css-hexagons.html" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/addons\/_retina-image.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_retina-image.css",
-      "fileType" : 4,
-      "debugStyle" : 2
-    },
-    "\/_sass\/modules\/_elements.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_sass\/modules\/_elements.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_sass\/css\/_elements.css",
-      "fileType" : 4,
-      "debugStyle" : 2
+      "inputAbbreviatedPath" : "\/_site\/jekyll\/update\/2013\/05\/15\/css-hexagons.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_sass\/lib\/bourbon\/css3\/_background.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -641,6 +626,18 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
+    "\/_sass\/lib\/bourbon\/addons\/_retina-image.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/addons\/_retina-image.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_retina-image.css",
+      "fileType" : 4,
+      "debugStyle" : 2
+    },
     "\/_sass\/lib\/bourbon\/addons\/_position.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -650,6 +647,18 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_position.css",
+      "fileType" : 4,
+      "debugStyle" : 2
+    },
+    "\/_sass\/modules\/_elements.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_sass\/modules\/_elements.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_sass\/css\/_elements.css",
       "fileType" : 4,
       "debugStyle" : 2
     },
@@ -677,6 +686,18 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
+    "\/_sass\/main.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_sass\/main.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/main.css",
+      "fileType" : 4,
+      "debugStyle" : 2
+    },
     "\/_sass\/lib\/bourbon\/functions\/_tint-shade.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -698,18 +719,6 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_modular-scale.css",
-      "fileType" : 4,
-      "debugStyle" : 2
-    },
-    "\/_sass\/main.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_sass\/main.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/main.css",
       "fileType" : 4,
       "debugStyle" : 2
     },
@@ -752,7 +761,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/css\/main.css",
-      "outputAbbreviatedPath" : "No Output Path",
+      "outputAbbreviatedPath" : "\/No Output Path",
       "fileType" : 16
     },
     "\/_sass\/state\/_rwd.scss" : {
