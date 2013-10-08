@@ -173,6 +173,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/about.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/about.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_sass\/base\/_variables.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -184,15 +193,6 @@
       "outputAbbreviatedPath" : "\/_sass\/css\/_variables.css",
       "fileType" : 4,
       "debugStyle" : 2
-    },
-    "\/about.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/about.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/_sass\/lib\/bourbon\/css3\/_border-image.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -230,17 +230,14 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
-    "\/_sass\/lib\/bourbon\/css3\/_animation.scss" : {
+    "\/_site\/projects.html" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css3\/_animation.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_animation.css",
-      "fileType" : 4,
-      "debugStyle" : 2
+      "inputAbbreviatedPath" : "\/_site\/projects.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_sass\/lib\/bourbon\/css3\/_flex-box.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -254,14 +251,17 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
-    "\/_site\/projects.html" : {
+    "\/_sass\/lib\/bourbon\/css3\/_animation.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/projects.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css3\/_animation.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_animation.css",
+      "fileType" : 4,
+      "debugStyle" : 2
     },
     "\/_sass\/lib\/bourbon\/_bourbon.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -311,17 +311,14 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
-    "\/_sass\/lib\/bourbon\/css3\/_background-image.scss" : {
+    "\/_layouts\/default.html" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css3\/_background-image.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_background-image.css",
-      "fileType" : 4,
-      "debugStyle" : 2
+      "inputAbbreviatedPath" : "\/_layouts\/default.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_sass\/lib\/bourbon\/addons\/_prefixer.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -335,14 +332,17 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
-    "\/_layouts\/default.html" : {
+    "\/_sass\/lib\/bourbon\/css3\/_background-image.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_layouts\/default.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css3\/_background-image.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_background-image.css",
+      "fileType" : 4,
+      "debugStyle" : 2
     },
     "\/_sass\/lib\/bourbon\/css3\/_placeholder.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -356,12 +356,12 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
-    "\/_site\/css\/main.css" : {
+    "\/_site\/css\/syntax.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/css\/main.css",
+      "inputAbbreviatedPath" : "\/_site\/css\/syntax.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
@@ -377,12 +377,12 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
-    "\/_site\/css\/syntax.css" : {
+    "\/_site\/css\/main.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/css\/syntax.css",
+      "inputAbbreviatedPath" : "\/_site\/css\/main.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
@@ -500,6 +500,17 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
+    "\/assets\/img\/headshot.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/img\/headshot.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/img\/headshot.jpg",
+      "initialSize" : 36101,
+      "fileType" : 4096
+    },
     "\/_sass\/lib\/bourbon\/css3\/_border-radius.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -614,6 +625,18 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/_sass\/modules\/_elements.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_sass\/modules\/_elements.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/_sass\/css\/_elements.css",
+      "fileType" : 4,
+      "debugStyle" : 2
+    },
     "\/_sass\/lib\/bourbon\/css3\/_background.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -650,27 +673,15 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
-    "\/_sass\/modules\/_elements.scss" : {
+    "\/_sass\/lib\/bourbon\/functions\/_modular-scale.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_sass\/modules\/_elements.scss",
+      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/functions\/_modular-scale.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_sass\/css\/_elements.css",
-      "fileType" : 4,
-      "debugStyle" : 2
-    },
-    "\/_sass\/lib\/bourbon\/addons\/_button.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/addons\/_button.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_button.css",
+      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_modular-scale.css",
       "fileType" : 4,
       "debugStyle" : 2
     },
@@ -686,18 +697,6 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
-    "\/_sass\/main.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_sass\/main.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/main.css",
-      "fileType" : 4,
-      "debugStyle" : 2
-    },
     "\/_sass\/lib\/bourbon\/functions\/_tint-shade.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -710,15 +709,27 @@
       "fileType" : 4,
       "debugStyle" : 2
     },
-    "\/_sass\/lib\/bourbon\/functions\/_modular-scale.scss" : {
+    "\/_sass\/main.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_sass\/main.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/main.css",
+      "fileType" : 4,
+      "debugStyle" : 2
+    },
+    "\/_sass\/lib\/bourbon\/addons\/_button.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/functions\/_modular-scale.scss",
+      "inputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/addons\/_button.scss",
       "outputStyle" : 0,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_modular-scale.css",
+      "outputAbbreviatedPath" : "\/_sass\/lib\/bourbon\/css\/_button.css",
       "fileType" : 4,
       "debugStyle" : 2
     },
@@ -754,6 +765,17 @@
       "outputAbbreviatedPath" : "\/_sass\/css\/_typography.css",
       "fileType" : 4,
       "debugStyle" : 2
+    },
+    "\/_site\/assets\/img\/headshot.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/assets\/img\/headshot.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/assets\/img\/headshot.jpg",
+      "initialSize" : 36101,
+      "fileType" : 4096
     },
     "\/css\/main.css" : {
       "ignoreWasSetByUser" : 0,
