@@ -9,11 +9,11 @@ description: Easy to use plugin to migrate your Wordpress sites between domains
 
 We all know this is a pain! We start off working locally, then we need to provide the link to a client on a test link. Then we need to put it onto the clients server.
 
-Even though the process for this is a paint it is pretty straight forward.
+Even though the process for this is a pain it is pretty straight forward.
 
 The issue I have run into a couple of times has been the uploads folder. You may have spent hours (or god forbid Days!) uploading all of the clients images and media to the wp-admin panel and now when you upload you have to search through the DB and change all these.
 
-Honestly, I don't like doing this. I hate working with SWL, I always feel like im going to break something when updating in PHPmyadmin and if you are working on someone else's server, this is not something you can risk.
+Honestly, I don't like doing this. I hate working with SQL, I always feel like im going to break something when updating in PHPmyadmin and if you are working on someone else's server, this is not something you can risk.
 
 ##Enter the Update URLs Plugin
 
