@@ -1,8 +1,4 @@
 /*  SASS imports  */
-/*  Libs
-	This is any CSS that has come from a plugin.
-	Suach as fancybox, pretty photo, etc.
-*/
 /* Base */
 /* normalize.css http://github.com/necolas/normalize.css */
 /* =============================================================================
@@ -434,30 +430,6 @@ body {
   -webkit-font-feature-settings: "liga", "dlig";
   font-feature-settings: "liga", "dlig"; }
 
-/*  Headers  */
-h1, .alpha-header {
-  font-size: 1.8em;
-  line-height: 1.125em; }
-
-h2, .beta-header {
-  font-size: 1.3em;
-  line-height: 1.125em; }
-
-h3, .omega-header {
-  font-size: 1.5em;
-  line-height: 1.125em; }
-
-h4, .zeta-header {
-  font-size: 1em;
-  line-height: 1.125em; }
-
-/*  Layout
-	For different page layouts on the
-	site just create new files in order
-	to make it easily managable.
-	ie.
-		_blog.scss
-*/
 .container {
   display: block;
   margin: 0 auto;
@@ -473,26 +445,3 @@ h4, .zeta-header {
   padding: 10px;
   width: 200px;
   height: 200px; }
-
-/*  Modules
-	Write all the modular SCSS.
-	Divide everything up in here, doesnt matter hoe
-	many files as it will all be compressed when live.
-*/
-/*  States
-	Responsive files are to be named with
-	their viewports.
-	ie:
-
-		_480-down.scss
-		_480-up.scss
-		_480-960.scss
-*/
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-  /* Styles for mobile */ }
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
-  /* Styles for tablet */ }
-@media only screen and (-webkit-min-device-pixel-ratio: 1.5) {
-  /* Don't forget your Retina CSS! */
-  body {
-    background-size: 72px 72px; } }
