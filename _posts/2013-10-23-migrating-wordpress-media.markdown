@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2013-10-23 16:50
-title: Migrating Wordpress Links
-description: Easy to use plugin to migrate your Wordpress sites between domains
+title: Migrating Wordpress Permalinks
+description: Easy to use plugin to migrate your Wordpress permalinks between sites between domains
 ---
 
 ## Migrating Wordpress
@@ -26,3 +26,5 @@ All you have to do is provide your old and new url and what links in what sectio
 This means I now longer have to open that daemon PHPMyAdmin and I can happily transfer a Wordpress site from place to place without having to worry about the media assets.
 
 [You can find the plugin here](http://www.velvetblues.com/web-development-blog/wordpress-plugin-update-urls/)
+
+As well as the media elements, this plugin allows you to change the permalinks of all content throughout the site, not just your media permalinks making it a perfect tool for your wordpress development & deployment.
