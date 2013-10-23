@@ -1,3 +1,4 @@
 name: sn0lan
 safe: true
 pygments: true
+permalink: /:year/:month/:title/

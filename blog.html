@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1 class="pagecontent__title">My Blog</h1>
+
+<p>The rants and ravings of myself. Most things internet related, some not.</p>
+
+
+{% for post in site.posts %}
+	<a href="{{ post.url }}" class="list-group-item">
+		<h2 class="list-group-item-heading">{{ post.title }} <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></small></h2>
+		<p class="list-group-item-text">{{ post.description }}</p>
+	</a>
+{% endfor %}
