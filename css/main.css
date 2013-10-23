@@ -458,7 +458,10 @@ a{ text-decoration: none; }
 }
 
 .social{
+	border-bottom: 1px solid #eee;
 	float: left;
+	margin-bottom: 2em;
+	padding-bottom: 1.5em;
 	text-align: center;
 	width: 100%;
 }
