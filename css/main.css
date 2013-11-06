@@ -71,6 +71,12 @@ a{ text-decoration: none; }
 	width: 100%;
 }
 
+.socialicon{
+	color: #999;
+}
+
+.socialicon span{ display: none; }
+
 /*  Elements  */
 
 /* My Work */
