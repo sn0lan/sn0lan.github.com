@@ -5,6 +5,8 @@ title: A quick thought on squarespace's logo builder
 description: A quick thought on squarespace
 ---
 
+#A quick thought on squarespace's logo builder
+
 So this week, or maybe sooner because I have only seen it this week, squarespace released a logo editor.
 
 I have seen quite a few people complaining about this. "Its ruining design" blah blah.
